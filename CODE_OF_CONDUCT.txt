@@ -17,7 +17,7 @@ link: https://cli.github.com
     Your branch name should be named something suitable and related to your PR
     E.g. a PR for updating a file should have a branch named <git branch -M UPDATE_FILES>
 
-command: git branch -M <temp branch name>
+    command: git branch -M <temp branch name>
 
 2.  Send push your temporary branch to the repository
     You should already know how to push to the repository from the terminal.
